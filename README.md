@@ -1,4 +1,14 @@
-### Hi there 👋
+### João Tonet 📑
+<p align="center">
+</a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:jh.tonet@unifei.edu.br?subject=Olá%20João%20Tonet"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/joaotonet/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+<h3 align="center">About me</h3>
+
+- 🎓 I’m currently a computer engineering student at Federal University of Itajubá. - [UNIFEI](https://www.linkedin.com/school/unifei/)
+- 💻 I’m currently learning web development using ReactJS and NodeJS.
+
 
 <!--
 **JoaoTonet/JoaoTonet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
