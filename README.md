@@ -1,5 +1,3 @@
-Aqui está o seu README atualizado:
-
 ### João Tonet 📑
 <p align="center">
 </a>&nbsp;&nbsp;&nbsp;
@@ -10,7 +8,6 @@ Aqui está o seu README atualizado:
 
 - 🎓 I graduated in Computer Engineering from the Federal University of Itajubá - [UNIFEI](https://www.linkedin.com/school/unifei/).
 - 📚 I’m currently pursuing a master's degree in Computer Science and Technology at Itajubá, specializing in Computational Mathematics.
-- 💻 I’m currently working at [ProntLife](https://portal.prontlife.com.br/) as a Software Engineer, focusing on Java backend and Angular frontend development.
 
 <!--
 **JoaoTonet/JoaoTonet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
